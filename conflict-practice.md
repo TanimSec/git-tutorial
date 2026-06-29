@@ -6,6 +6,8 @@
 
  I resolve conflicts by combining the best of both changes.
 
+ - I use interctive rebase to polish commits before opening a PR
+
  ## Lessons Learned
 
 - Merge conflicts are normal and not scary
